@@ -1,3 +1,2 @@
 # react-tailwind-portfolio-landing
-![picture](Design-Dark.png)
-![picture](Design-Light.png)
+![Dark](Design-Dark.png) ![Light](Design-Light.png)
